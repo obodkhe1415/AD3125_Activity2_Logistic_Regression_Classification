@@ -37,3 +37,5 @@ Confusion matrix at threshold 0.5: TP = 1,303, FP = 515, FN = 697, TN = 6,484.
 1. Place `loan_data.csv` in the same folder as the notebook.
 2. Install: `pandas numpy matplotlib seaborn scikit-learn`.
 3. Open the notebook and run all cells from top to bottom. A fixed random seed (42) makes results reproducible.
+
+**Submission GitHub ID:** [github.com/complexiota](https://github.com/complexiota)
